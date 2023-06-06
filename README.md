@@ -1,6 +1,6 @@
 # Mod-11-WS-Mars-News-Weather
 Purpose:
-To web scrape HTML tables & recurring elements, using Beautiful Soup to parse. To analyze the news and weather on Mars for 
+To web scrape HTML tables & recurring elements, using Beautiful Soup to parse. To analyze the news and weather on Mars for a period of time.
 
 Requirements:
 
@@ -24,3 +24,4 @@ Which month, on average, has the lowest temperature? The highest? (10 points)
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
 The DataFrame was exported into a CSV file. (5 points)
+Source (https://courses.bootcampspot.com/courses/3265/assignments/52132?module_item_id=935676#:~:text=Requirements,file.%20(5%20points)
